@@ -12,5 +12,5 @@ This Portfolio is a compilation of all Data Science and Data Analysis projects I
 
 ## Certificates
 
-* [Social and Behavioral Responsible Conduct of Research from CITI Program]
+* [Social and Behavioral Responsible Conduct of Research from CITI Program](https://github.com/maddierhess/Portfolio/blob/main/Certificates/citiCompletionCertificate_14388769_69151338-2.pdf)
 * [Choose the Right Tool for Your Data: Python, R, or SQL](Certificates/CertificateOfCompletion_Choose the Right Tool for Your Data Python R or SQL.pdf)

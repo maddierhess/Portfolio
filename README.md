@@ -1,8 +1,8 @@
 # Data Science Portfolio - Madison Hess
 This Portfolio is a compilation of all Data Science and Data Analysis projects I have done for academic and self-learning purposes. This portfolio also contains my achievements, skills, and certificates. It is updated on a regular basis.
 
-* ##### Email: [maddiehess03@gmail.com](maddiehess03@gmail.com)
-* ##### LinkedIn: [www.linkedin.com/in/madisonrhess](www.linkedin.com/in/madisonrhess)
+* #### Email: [maddiehess03@gmail.com](maddiehess03@gmail.com)
+* #### LinkedIn: [www.linkedin.com/in/madisonrhess](www.linkedin.com/in/madisonrhess)
 
  ## Core Competencies
 
@@ -13,4 +13,4 @@ This Portfolio is a compilation of all Data Science and Data Analysis projects I
 ## Certificates
 
 * [Social and Behavioral Responsible Conduct of Research from CITI Program](https://github.com/maddierhess/Portfolio/blob/main/Certificates/citiCompletionCertificate_14388769_69151338-2.pdf)
-* [Choose the Right Tool for Your Data: Python, R, or SQL](Certificates/CertificateOfCompletion_Choose the Right Tool for Your Data Python R or SQL.pdf)
+* [Choose the Right Tool for Your Data: Python, R, or SQL](https://github.com/maddierhess/Portfolio/blob/main/Certificates/CertificateOfCompletion_Choose%20the%20Right%20Tool%20for%20Your%20Data%20Python%20R%20or%20SQL.pdf)

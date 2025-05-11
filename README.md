@@ -11,12 +11,13 @@ This Portfolio is a compilation of all Data Science and Data Analysis projects I
 
 ## Projects
 
-
-
+* [Spatial Analysis of Alcohol Use, Tobacco Use, and Obesity Rates](https://github.com/Comp-Soc-Science-Methods/HW1/tree/main)
+* [Detecting Communities in Social Networks](https://github.com/Comp-Soc-Science-Methods/HW2)
+* [School Selection Using AHP](https://github.com/Comp-Soc-Science-Methods/HW3_ahp)
 
 ## Core Competencies
 
-* Methodologies: Statistics, Survey Methodology and Design, Spatial Data Analysis
+* Methodologies: Statistics, Survey Methodology and Design, Spatial Data Analysis, Analytic Hierarchy Process (AHP)
 * Languages: Python (Pandas, Numpy, Networkx, Matplotlib), R (Dplyr, Tidyr, Stingr, Shiny, igraph, Ggplot2), JavaScript
 * Tools: MS Excel, Git, ArcMap, GeoDa, SPSS
 

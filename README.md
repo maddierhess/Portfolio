@@ -11,7 +11,7 @@ This Portfolio is a compilation of all Data Science and Data Analysis projects I
 
 ## Projects
 
-* [Spatial Analysis of Alcohol Use, Tobacco Use, and Obesity Rates](https://github.com/Comp-Soc-Science-Methods/HW1/tree/main)
+* [Spatial Analysis of Alcohol Use, Tobacco Use, and Obesity Rates Around the World](https://github.com/Comp-Soc-Science-Methods/HW1/tree/main)
 * [Detecting Communities in Social Networks](https://github.com/Comp-Soc-Science-Methods/HW2)
 * [School Selection Using AHP](https://github.com/Comp-Soc-Science-Methods/HW3_ahp)
 

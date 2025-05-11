@@ -12,4 +12,5 @@ This Portfolio is a compilation of all Data Science and Data Analysis projects I
 
 ## Certificates
 
-*
+* [Social and Behavioral Responsible Conduct of Research from CITI Program]
+* [Choose the Right Tool for Your Data: Python, R, or SQL]

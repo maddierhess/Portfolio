@@ -12,7 +12,11 @@ This Portfolio is a compilation of all Data Science and Data Analysis projects I
 ## Projects
 
 * [Undergraduate Thesis: Generational Differences in News Consumption Habits]
+This study investigated generational differences in common routes to news, attitudes towards news, and levels of knowledge surrounding current events. 138 adults belonging to Gen Z, Millennial, Gen X, and Baby     Boomer age categories completed a survey which assessed importance of specific modes of media related to news consumption, importance of specific social media platforms in relation to news consumption, and attitudes surrounding news-seeking. A twenty-question current events trivia also examined participants’ level of knowledge about current events. It was found that routes to news, especially social media platforms, varied significantly across age groups. Next, dependence on Instagram, Twitter, and TikTok for news increased the younger the age group. Finally, Gen Z proved to be the most news avoidant age group and the least knowledgeable about current events.
+
 * [Add Health Research Paper: Chronic Juvenile Delinquency]
+This project relies on data collected from the National Longitudinal Study of Adolescent Health, also known as Add Health, in order to examine what causes juveniles to become chronic offenders. I propose three theories that aim to contribute to this analysis: Control theory, strain theory, and exposure to deviant peers.
+
 * [Spatial Analysis of Alcohol Use, Tobacco Use, and Obesity Rates Around the World](https://github.com/Comp-Soc-Science-Methods/HW1/tree/main)
 * [Detecting Communities in Social Networks](https://github.com/Comp-Soc-Science-Methods/HW2)
 * [School Selection Using AHP](https://github.com/Comp-Soc-Science-Methods/HW3_ahp)
